@@ -214,7 +214,7 @@ Kết quả được báo cáo riêng cho câu hỏi **CLOSED** (Yes/No) và **O
 
 **Võ Trường Thiên** — Khoa học Máy tính, IUH  
 📧 truongthienvo20042402@gmail.com  
-
+Giảng viên hướng dẫn: Bùi Thanh Hùng — Khoa CNTT, Đại học Công nghiệp TP.HCM
 ---
 
 <p align="center">
